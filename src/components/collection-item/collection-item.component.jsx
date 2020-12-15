@@ -1,5 +1,5 @@
-import React from 'react'
-import "./../../css/collection-item.styles.css"
+import React from 'react';
+import "../../css/collection-item.styles.css";
 
 const CollectionItem = ({id, name, price, imageUrl}) => {
   return (

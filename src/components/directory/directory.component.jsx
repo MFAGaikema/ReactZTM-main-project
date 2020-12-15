@@ -1,6 +1,6 @@
-import React, { Component } from 'react'
-import MenuItem from "./../menu-item/menu-item.component"
-import "./../../css/directory.styles.css"
+import React, { Component } from 'react';
+import MenuItem from "../menu-item/menu-item.component";
+import "../../css/directory.styles.css";
 
 class Directory extends Component {
   constructor() {
